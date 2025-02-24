@@ -1,0 +1,22 @@
+{
+  "name": "the-musk-snake",
+  "version": "1.0.0",
+  "description": "El juego de la serpiente versión MUSK",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiamath/The-Musk-Snake.git"
+  },
+  "author": "The Musk",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Thiamath/The-Musk-Snake/issues"
+  },
+  "homepage": "https://github.com/Thiamath/The-Musk-Snake#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
