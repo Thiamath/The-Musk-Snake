@@ -2,6 +2,6 @@
 
 ## TODO
 
-- [ ] Marcador de puntuación
-- [ ] Estela de la serpiente
+- [x] Marcador de puntuación
+- [x] Estela de la serpiente
 - [ ] Motor en tiempo real
