@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Thiamath/The-Musk-Snake#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
   }
 }
